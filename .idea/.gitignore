@@ -1,0 +1,18 @@
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Ignore LeetCode project file
+Leetcode.iml
+
+# Ignore all XML files
+*.xml
